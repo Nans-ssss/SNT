@@ -1,13 +1,11 @@
 .title-space {
-  font-size: 40px;
-  font-weight: bold;
+  font-size: 20px;
   color: white;
   width: 980px;
-  margin: auto 0px;
   height: 120px;
-  text-shadow: 3px 3px #413F37;
-  background-color: #e7649f;
+  text-align: center;
   padding: 0px 10px 20px;
+  background-color: #e7649f;
   box-shadow: inset 3px 3px #a24b72, inset 0px -8px #a24b72 ,4px 4px #a24b72, -3px -3px #fff,  inset 6px 6px #fff;    
   font-family: monospace;
 }
@@ -72,4 +70,9 @@ video {
   box-shadow: 4px 4px #fff ,7px 7px #e7649f , -3px -3px #fff , inset -3px -3px #fff, -5px -5px #a24b72, 10px 10px #a24b72;    
   border: 6px solid #ECE9D8; 
   font-size: 18px;
+}
+
+.bas-page {
+  color: white;
+  padding-bottom: 90px;
 }
