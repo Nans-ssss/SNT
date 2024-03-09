@@ -1,2 +1,0 @@
-# SNT
-sdsq
