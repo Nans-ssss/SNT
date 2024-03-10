@@ -5,13 +5,14 @@
   height: 120px;
   text-align: center;
   padding: 0px 10px 20px;
-  background-color: #e7649f;
+  background-color: #241c24;
   box-shadow: inset 3px 3px #a24b72, inset 0px -8px #a24b72 ,4px 4px #a24b72, -3px -3px #fff,  inset 6px 6px #fff;    
   font-family: monospace;
 }
 
 .haut-page {
   margin-left: 3%;
+  color: white;
 }
 
 .centre {
@@ -103,4 +104,8 @@ hr {
   text-align: left;
   font-weight: 250;
   font-size: 15px;
+}
+
+a {
+  color: #e7649f;
 }
