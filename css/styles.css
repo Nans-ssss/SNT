@@ -10,6 +10,10 @@
   font-family: monospace;
 }
 
+.haut-page {
+  margin-left: 3%;
+}
+
 .centre {
   width: 1000px;
   margin: 50px auto;
@@ -61,7 +65,12 @@ strong {
 }
 
 iframe {
-  width: 475;
+  width: 462;
+    background: #fff;
+    padding: 0px 0px 00px 00px;
+    box-shadow: 4px 4px #fff ,7px 7px #e7649f , -3px -3px #fff , inset -3px -3px #fff, -5px -5px #a24b72, 10px 10px #a24b72;    
+    border: 6px solid #ECE9D8; 
+    font-size: 18px;
 }
 
 video { 
@@ -75,4 +84,23 @@ video {
 .bas-page {
   color: white;
   padding-bottom: 90px;
+}
+
+
+hr {
+  border: none;
+  border-top: 3px double #333;
+  color: #333;
+}
+
+.creationr {
+  text-align: right;
+  font-weight: 250;
+  font-size: 15px;
+}
+
+.creationg {
+  text-align: left;
+  font-weight: 250;
+  font-size: 15px;
 }
